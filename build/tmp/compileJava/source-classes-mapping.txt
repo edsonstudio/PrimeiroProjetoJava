@@ -1,2 +1,25 @@
 one/digitalinnovation/classes/Programa.java
  one.digitalinnovation.classes.Programa
+one/digitalinnovation/tipos/primitivos/Primitivos.java
+ one.digitalinnovation.tipos.primitivos.Primitivos
+one/digitalinnovation/tipos/primitivos/DefaultValues.java
+ one.digitalinnovation.tipos.primitivos.Default
+ one.digitalinnovation.tipos.primitivos.DefaultValues
+one/digitalinnovation/classes/usuario/SuperUsuario.java
+ one.digitalinnovation.classes.usuario.SuperUsuario
+one/digitalinnovation/classes/usuario/ProgramaDoSuperUsuario.java
+ one.digitalinnovation.classes.usuario.ProgramaDoSuperUsuario
+one/digitalinnovation/tipos/wrappers/Wrappers.java
+ one.digitalinnovation.tipos.wrappers.Wrappers
+one/digitalinnovation/tipos/tipagem/TipagemForte.java
+ one.digitalinnovation.tipos.tipagem.TipagemForte
+one/digitalinnovation/tipos/tipagem/TipoInferido.java
+ one.digitalinnovation.tipos.tipagem.TipoInferido
+one/digitalinnovation/tipos/naoprimitivos/Unboxing.java
+ one.digitalinnovation.tipos.naoprimitivos.Unboxing
+one/digitalinnovation/tipos/naoprimitivos/NaoPrimitivos.java
+ one.digitalinnovation.tipos.naoprimitivos.NaoPrimitivos
+one/digitalinnovation/tipos/tipagem/TipagemEstatica.java
+ one.digitalinnovation.tipos.tipagem.TipagemEstatica
+one/digitalinnovation/tipos/tipagem/Escopo.java
+ one.digitalinnovation.tipos.tipagem.Escopo

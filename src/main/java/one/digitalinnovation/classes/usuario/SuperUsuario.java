@@ -2,7 +2,7 @@ package one.digitalinnovation.classes.usuario;
 
 public class SuperUsuario {
     private String login;
-    private String senha;
+    protected String senha;
     String nome;
 
     //Construtor normal

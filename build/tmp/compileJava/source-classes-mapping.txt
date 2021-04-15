@@ -53,3 +53,15 @@ one/digitalinnovation/finals/Gamer.java
  one.digitalinnovation.finals.Gamer
 one/digitalinnovation/finals/Programa.java
  one.digitalinnovation.finals.Programa
+one/digitalinnovation/interfaces/Trator.java
+ one.digitalinnovation.interfaces.Trator
+one/digitalinnovation/interfaces/Veiculo.java
+ one.digitalinnovation.interfaces.Veiculo
+one/digitalinnovation/interfaces/Carro.java
+ one.digitalinnovation.interfaces.Carro
+one/digitalinnovation/interfaces/Gol.java
+ one.digitalinnovation.interfaces.Gol
+one/digitalinnovation/interfaces/Programa.java
+ one.digitalinnovation.interfaces.Programa
+one/digitalinnovation/interfaces/Fiesta.java
+ one.digitalinnovation.interfaces.Fiesta
